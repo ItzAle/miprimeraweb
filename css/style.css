@@ -1,7 +1,15 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 h1 {
     color: rgba(218, 65, 65);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .tomato-p{
     background-color: brown;
     color: white;
+}
+img{
+    width: 50%;
 }
